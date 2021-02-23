@@ -18,6 +18,8 @@ Diese Dash-App lädt die Daten in ein *pandas*-DataFrame und visualisiert sie ge
 
 Außerdem nutzt die App eine PLZ-Suche, die durch einen weiteren DataFrame und ein Input-Feld aktiviert wird.
 
+Das CSS ist das oft bei Dash-Apps genutzte [CSS](https://codepen.io/chriddyp/pen/bWLwgP.css) von @chriddyp, welches den Bootstrap-Columns ähnelt
+
 ## Nachbauen
 
 Um das Ganze selbst nachzubauen, einfach das Repo clonen. (Ich nehme ab hier ein gewisses Verständnis von git und python an).
