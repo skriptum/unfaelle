@@ -203,7 +203,7 @@ app.layout = html.Div(children = [
 
             
 
-            html.A(className = "div-logo", href = f"https://skriptum.github.io", 
+            html.A(className = "div-logo", href = f"https://git.io/Jq2Sc", 
                 target= "_blank", children = [html.B("Home")]
             ),
             html.Div(className = "twelve columns", children = [html.Br()]),
